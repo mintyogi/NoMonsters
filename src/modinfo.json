@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "nomonstersmod",
+  "name": "No Monsters Mod",
+  "description" : "Disables drifters and locusts",
+  "authors": ["MintYogi"],
+  "version": "1.0",
+  "dependencies": { 
+	"game": "1.12.14",
+	"survival": ""
+  },
+  "website": "http://mintyogi.com"
+}

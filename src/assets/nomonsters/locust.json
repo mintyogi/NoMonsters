@@ -1,0 +1,3 @@
+[
+  { file: "game:entities/land/locust", op: "add", path: "/enabled", value: "false" }
+]

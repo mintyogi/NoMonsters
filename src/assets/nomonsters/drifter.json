@@ -1,0 +1,3 @@
+[
+  { file: "game:entities/land/drifter", op: "add", path: "/enabled", value: "false" }
+]
